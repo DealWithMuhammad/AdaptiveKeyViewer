@@ -40,7 +40,7 @@ python keyviz.py
 Or with the specific Python path:
 
 ```
-"C:\Users\muham\AppData\Local\Programs\Python\Python313\python.exe" keyviz.py
+"C:\Users\muham\AppData\Local\Programs\Python\Python313\python.exe" AdaptiveKeyViewer.py
 ```
 
 ## Usage
