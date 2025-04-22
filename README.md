@@ -34,7 +34,7 @@ Perfect for presentations, screen recordings, or live demonstrations, AdaptiveKe
 To run AdaptiveKeyViewer, simply execute the Python script:
 
 ```
-python keyviz.py
+python AdaptiveKeyViewer.py
 ```
 
 Or with the specific Python path:
